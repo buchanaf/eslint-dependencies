@@ -7,7 +7,7 @@
     "airbnb"
   ],
   "author": "Alex Buchanan <buchanaf@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "eslint": "^2.9.0",
     "eslint-config-airbnb": "^8.0.0",
